@@ -1,4 +1,5 @@
 ChangeLog
+LICENSE
 lib/Navit/WebsiteCreator.pm
 lib/Navit/WebsiteCreator/Converter.pm
 Makefile.PL
