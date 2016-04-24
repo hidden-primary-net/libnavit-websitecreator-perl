@@ -1,0 +1,9 @@
+<div class="header-links">
+    <a href="http://www.sourceforge.net/projects/navit/" class="header-link">Project Page</a>
+    <a href="http://trac.navit-project.org" class="header-link">Bug Tracker</a>
+    <a href="http://wiki.navit-project.org/index.php/Main_Page" class="header-link">Wiki</a>
+    <a href="http://forum.navit-project.org/" class="header-link">Forum</a>
+    <a href="http://wiki.navit-project.org/" class="header-link">Documentation</a>
+    <a href="http://www.navit-project.org/?page=download" class="orange-flat-button">Download</a>
+</div>
+[%#- vim: set filetype=tt2html: -%]

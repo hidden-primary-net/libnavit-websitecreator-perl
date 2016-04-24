@@ -5,6 +5,9 @@
 	* bin/navit-website-make.pl: added script creating the site
 	* _includes/default.tt2html, _includes/landingpage.tt2html: set up default
 	  page and landing page structure
+	* _includes/hero.tt2html, _includes/header.tt2html,
+	  _includes/footer.tt2html, _includes/scripts.tt2html,
+	  _includes/projectmenu.tt2html: added global templates to include
 
 2016-03-20  Marc0  <Marc0@hidden-primary.net>
 

@@ -1,0 +1,5 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="[%- sv_rel_base -%]css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="[%- sv_rel_base -%]css/app.css">
+</head>
+[%#- vim: set filetype=tt2html: -%]

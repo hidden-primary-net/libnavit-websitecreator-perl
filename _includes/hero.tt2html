@@ -1,0 +1,13 @@
+<div class="video_container">
+    <div class="trans-overlay">
+        <div class="hero_text">
+            <div class="hero_header">
+                Navigate The World
+                <div class="header-divider"> </div>
+                <h4 class="hero_subheader">Easily find your way anywhere with Navit</h4>
+            </div>
+        </div>
+    </div>
+    [%- INCLUDE projectmenu.tt2html -%]
+</div>
+[%#- vim: set filetype=tt2html: -%]

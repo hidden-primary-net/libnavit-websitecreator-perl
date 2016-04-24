@@ -1,0 +1,34 @@
+<div class="footer">
+    <div class="trans-overlay">
+        <div class="col-xs-9">
+            <div class="col-xs-3 contacts">
+                <h4>Martin Schaller</h4>
+                <p>cp15 at navit-project.org </p>
+            </div>
+            <div class="col-xs-3 contacts">
+                <h4>Michael Farmbauer</h4>
+                <p>horwitz at navit-project.org </p>
+            </div>
+            <div class="col-xs-3 contacts">
+                <h4>Pierre Grandin</h4>
+                <p>kazer at navit-project.org </p>
+            </div>
+            <div class="col-xs-3 contacts">
+                <h4>Nick Geoghegan</h4>
+                <p>number6 at navit-project.org</p>
+            </div>
+        </div>
+        <div class="header-social col-xs-3">
+            <a href="http://www.facebook.com/NavitProject" class="header-link">
+                <img class="social-img" src="images/fb.png">
+            </a>
+            <a href="http://www.twitter.com/NavitProject" class="header-link">
+                <img class="social-img" src="images/twitter.png">
+            </a>
+            <a href="http://www.linkedin.com/companies/navit-project" class="header-link">
+                <img class="social-img" src="images/linkedin.png">
+            </a>
+        </div>
+    </div>
+</div>
+[%#- vim: set filetype=tt2html: -%]

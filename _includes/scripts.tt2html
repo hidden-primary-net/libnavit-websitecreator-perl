@@ -1,0 +1,4 @@
+[%- FOREACH script IN ['jquery', 'bootstrap', 'app'] -%]
+<script src="[%- sv_rel_base -%]js/[%- script -%].min.js"></script>
+[%- END -%]
+[%#- vim: set filetype=tt2html: -%]
