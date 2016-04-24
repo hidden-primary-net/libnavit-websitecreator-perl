@@ -1,9 +1,8 @@
-[%#- landing page scaffold -%]
+[%#- default page scaffold -%]
 <!DOCTYPE html>
 <html>
 [%- INCLUDE header.tt2html -%]
 <body>
-[%- INCLUDE hero.tt2html -%]
 <div class="home_content">[%- content -%]</div>
 [%- INCLUDE footer.tt2html -%]
 [%- INCLUDE scripts.tt2html -%]
