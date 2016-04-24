@@ -8,6 +8,7 @@
 	* _includes/hero.tt2html, _includes/header.tt2html,
 	  _includes/footer.tt2html, _includes/scripts.tt2html,
 	  _includes/projectmenu.tt2html: added global templates to include
+	* _source/index.tt2html: defined landing page
 
 2016-03-20  Marc0  <Marc0@hidden-primary.net>
 
