@@ -1,5 +1,7 @@
 [%#- default page scaffold -%]
+[%- USE Filter.MinifyHTML( comments => 1, html5 => 1 ) -%]
 <!DOCTYPE html>
+[%- FILTER minify_html -%]
 <html>
 [%- INCLUDE header.tt2html -%]
 <body>
@@ -8,4 +10,5 @@
 [%- INCLUDE scripts.tt2html -%]
 </body>
 </html>
+[%- END -%]
 [%#- vim: set filetype=tt2html: -%]
