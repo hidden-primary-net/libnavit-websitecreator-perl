@@ -20,13 +20,13 @@
         </div>
         <div class="header-social col-xs-3">
             <a href="http://www.facebook.com/NavitProject" class="header-link">
-                <img class="social-img" src="images/fb.png">
+                <img class="social-img" src="[%- sv_rel_base -%]images/fb.png">
             </a>
             <a href="http://www.twitter.com/NavitProject" class="header-link">
-                <img class="social-img" src="images/twitter.png">
+                <img class="social-img" src="[%- sv_rel_base -%]images/twitter.png">
             </a>
             <a href="http://www.linkedin.com/companies/navit-project" class="header-link">
-                <img class="social-img" src="images/linkedin.png">
+                <img class="social-img" src="[%- sv_rel_base -%]images/linkedin.png">
             </a>
         </div>
     </div>
