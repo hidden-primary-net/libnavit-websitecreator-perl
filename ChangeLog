@@ -1,0 +1,9 @@
+2016-04-24  Marc0  <Marc0@hidden-primary.net>
+
+	* lib/Navit/WebsiteCreator.pm, lib/Navit/WebsiteCreator/Converter.pm,
+	  _includes/*, _source/*, _layouts/*: first version, not functional yet
+	* bin/navit-website-make.pl: added script creating the site
+
+2016-03-20  Marc0  <Marc0@hidden-primary.net>
+
+	* initial commit

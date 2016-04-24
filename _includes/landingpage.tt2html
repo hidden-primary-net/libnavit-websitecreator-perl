@@ -1,0 +1,14 @@
+[%#- landing page scaffold -%]
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="[%- sv_rel_base -%]css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="[%- sv_rel_base -%]css/app.css">
+</head>
+<body>
+[%- content -%]
+[%- FOREACH script IN ['jquery', 'bootstrap', 'app'] -%]
+<script src="[%- sv_rel_base -%]js/[%- script -%].min.js"></script>
+[%- END -%]
+</body>
+</html>
